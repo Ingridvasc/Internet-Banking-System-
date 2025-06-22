@@ -1,25 +1,25 @@
 # 💰 Internet Banking System
 
-![Banking Dashboard](screenshots/dashboard.png)
+![Banking Dashboard](dashboard.png)
 
 A complete online banking solution built with PHP and MySQL, designed for college projects and real-world banking operations simulation.
 
 ## ✨ Key Features
 
 ### 👨‍💼 Customer Panel
-![Customer Interface](screenshots/customer-portal.png)
+![Customer Interface](1(2).png)
 - Account registration and management
 - Transaction history tracking
 - Profile customization
 
 ### 💳 Transaction Management
-![Transactions](screenshots/transactions.png)
+![Transactions](2.png)
 - Deposit/withdrawal processing
 - Inter-account transfers
 - Real-time balance inquiries
 
 ### 📊 Admin Dashboard
-![Admin Panel](screenshots/admin-panel.png)
+![Admin Panel](administrator.png)
 - Customer and staff management
 - Financial analytics with charts
 - System-wide transaction monitoring
