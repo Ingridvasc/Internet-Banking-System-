@@ -1,6 +1,6 @@
 # 💰 Internet Banking System
 
-![Banking Dashboard](dashboard.png)
+![Banking Dashboard](Dashboard.png)
 
 A complete online banking solution built with PHP and MySQL, designed for college projects and real-world banking operations simulation.
 
@@ -19,7 +19,7 @@ A complete online banking solution built with PHP and MySQL, designed for colleg
 - Real-time balance inquiries
 
 ### 📊 Admin Dashboard
-![Admin Panel](administrator.png)
+![Admin Panel](Administrator.png)
 - Customer and staff management
 - Financial analytics with charts
 - System-wide transaction monitoring
