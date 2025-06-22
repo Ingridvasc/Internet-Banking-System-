@@ -7,7 +7,7 @@ A complete online banking solution built with PHP and MySQL, designed for colleg
 ## ✨ Key Features
 
 ### 👨‍💼 Customer Panel
-![Customer Interface](1(2).png)
+![Customer Interface](3.png)
 - Account registration and management
 - Transaction history tracking
 - Profile customization
